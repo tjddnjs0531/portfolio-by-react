@@ -1,22 +1,22 @@
 #section2{position: relative; z-index: 200; background: #fff; min-height: 100vh; transition: background .3s ease-in-out;}
 #section2.on{background: transparent;}
 .skill-list{}
-.skill-list > ul{display: flex; flex-wrap:wrap; border-top: 1px solid #ddd;}
-.skill-list > ul > li{width: 100%; display: table; border-bottom: 1px solid #ddd; padding: 25px 0}
-.skill-list .item > *{display: table-cell; vertical-align: middle;}
-.skill-list .item .ico{width: 150px; text-align: center;}
-.skill-list .item .ico i{display: block; font-size: 30px; font-size: 1.875em; color: #333;}
-.skill-list .item .ico strong{display: block; font-size: 14px; font-size: 0.875em; color: #aaa; margin-top: 10px;}
-.skill-list .item:hover{background: #f7f7f7}
-.skill-list .item:hover .ico svg{
-  animation: shake 0.5s;
-  animation-iteration-count: infinite;
-}
+.skill-list > ul{display: flex; flex-wrap:wrap; padding: 2.5em 0; border-top: 2px solid #222; border-bottom: 2px solid #222;}
+.skill-list > ul > li{text-align: center;}
+.skill-list .item svg{ width: 50%; height: auto; stroke-dashoffset: 60;}
+.skill-list .item.on svg{animation: pieChart 2s linear forwards;}
+.skill-list .circle-chart__circle{stroke: var(--yellow);}
+.skill-list .circleTitle{font-weight: 700; fill: #222;}
+.skill-list .item .txt{display: block; margin-top: 10px; font-weight: 700; font-size: 15px;}
 
 @keyframes shake {
   0%{transform: rotate(0);}
   50%{transform: rotate(10deg);}
   100%{transform: rotate(0);}
+}
+@keyframes pieChart {
+  0%{stroke-dashoffset: 60;}
+  100%{stroke-dashoffset: 0;}
 }
 
 

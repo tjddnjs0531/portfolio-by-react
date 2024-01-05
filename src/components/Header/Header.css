@@ -8,10 +8,10 @@ header{position: sticky; top: 0; width: 100%; background: #fff; padding-top: 1em
 .gnb >li >a:hover span::before{width: 100%; left: 0;}
 .gnb .active a{color: #fff;font-weight: 900;text-shadow: -1px -1px 0 #333, 1px -1px 0 #333, -1px 1px 0 #333, 1px 1px 0 #333;letter-spacing: 2px;}
 
-.sec4 header{background: transparent;}
-.sec4 .header-wrap{border-color: #fff;}
-.sec4 .gnb >li >a{color: #fff;}
-.sec4 .gnb .active a{color: #333; text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;}
+.sec3 header{background: transparent;}
+.sec3 .header-wrap{border-color: #fff;}
+.sec3 .gnb >li >a{color: #fff;}
+.sec3 .gnb .active a{color: #333; text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;}
 
 @media (max-width : 480px) {
     .gnb > li > a {

@@ -15,7 +15,47 @@ function Section2() {
                 <div className="skill-list">
                     <p className="main-tit fade-up"><span>Tech Stack</span></p>
                     <ul className="fade-g">
-                        <li className="item">
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="95,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">98%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>HTML</span>
+                      </li>
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="95,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">98%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>CSS</span>
+                      </li>
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="85,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">85%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>Jvascript & JQuery</span>
+                      </li>
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="70,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">70%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>Photoshop & Illustrator</span>
+                      </li>
+                        {/* <li className="item">
                             <div className="ico">
                                 <FontAwesomeIcon icon={faCode} />
                                 <strong>UI DEVELOPER</strong>
@@ -63,7 +103,7 @@ function Section2() {
                             기획자, 디자이너, 개발자와 원활하게 협업하려고 노력합니다. <br />
                             다른 분야를 이해하고 도와가며 더 좋은 결과물을 만들어냅니다.
                             </div>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             </div>

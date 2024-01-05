@@ -5,7 +5,7 @@
 .prj-wrap{display: flex;align-items: center;width: 100%;height: 100%;padding-left: 15%;}
 .prj-cont{width: 400px;padding-right: 2.5em;}
 .prj-cont .tit .sub{font-size: 14px; color: #aaa; font-weight: 700;}
-.prj-cont .tit .main{font-size: 40px; font-size: 2.5em; font-weight: 700; color: #333;}
+.prj-cont .tit .main{font-size: 40px; font-size: 2.5em; font-weight: 700; color: #333; word-break: keep-all; line-height: 1.2;}
 .prj-cont .desc{margin-top: 20px;}
 .prj-cont .desc >li:not(:last-child){margin-bottom: 10px;}
 .prj-cont .desc .t1{font-size: 22px; font-size: 1.375em; font-weight: 600; color: #333; margin-bottom: 5px;}
