@@ -1,7 +1,7 @@
 #section1{position: relative; z-index: 200; background: #fff; min-height: 100vh;}
 .headline{text-align: center; border-bottom: 1px solid #333; position: relative; overflow: hidden; height: 500px;}
 .headline p{font-size: 6vw; font-weight: 900; color: #333; letter-spacing: 3px; white-space: nowrap; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%)}
-.intro{padding-top: 3em; padding-bottom: 3em; display: flex; flex-wrap: wrap; align-items: center;}
+.intro{padding-top: 5em; padding-bottom: 3em; display: flex; flex-wrap: wrap; align-items: center;}
 .intro .img{width: 500px; margin-right: 2.5em;}
 
 .intro .cont{width: 100%; flex: 1;}
