@@ -48,9 +48,29 @@ function Section2() {
                       <li className="item">
                         <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
                             <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
-                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="70,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="60,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <g className="circle-chart__info">
-                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">70%</text>
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">60%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>React</span>
+                      </li>
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="80,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">80%</text>
+                            </g>
+                        </svg>
+                        <span className='txt'>Bootstrap</span>
+                      </li>
+                      <li className="item">
+                        <svg className="circle-chart" viewBox="0 0 33.83098862 33.83098862" xmlns="http://www.w3.org/2000/svg">
+                            <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="85,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
+                            <g className="circle-chart__info">
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">85%</text>
                             </g>
                         </svg>
                         <span className='txt'>Photoshop & Illustrator</span>
