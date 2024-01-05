@@ -34,7 +34,7 @@ export default [
         "name" : "손기정박물관",
         "stack" : "HTML, CSS, Javascript, Jquery",
         "period" : "2022-10 ~ 2023-01",
-        "desc" : "CMS 기반 반응형 웹 홈페이지 구축 <br/>웹접근성 획득",
+        "desc" : "CMS 기반 반응형 웹 홈페이지 구축 및 웹접근성 획득",
         "link" : "https://www.sonkeechung.com/sonkeechung/main/main.do",
         "pcImg" : "./img/pj_skj_pc.jpg",
         "moImg" : "./img/pj_skj_m.jpg",

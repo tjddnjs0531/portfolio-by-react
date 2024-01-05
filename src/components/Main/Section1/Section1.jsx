@@ -9,7 +9,7 @@ function Section1() {
                 <p>WELCOME TO <br className="hidden-lg" />MY PORTFOLIO</p>
             </div>
             <div className="inner intro">
-                <div className="img"><img src='./img/myEmoji.gif' alt="" /></div>
+                {/* <div className="img"><img src='./img/myEmoji.gif' alt="" /></div> */}
                 <div className="cont fade-g">
                     <p className="tit">🖐️ 안녕하세요! 웹 퍼블리셔 임성원입니다.</p>
                     <div className="desc">
