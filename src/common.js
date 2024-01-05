@@ -13,8 +13,6 @@ d.each(function (i, v) {
 $(window).bind('scroll load orientationchange reload resize ready', function() {
     var win = $(window).scrollTop() + $(window).height();
 
-  var st = $(window).scrollTop();
-
 
   $('.fade-up, .fade-in').each(function(){
     if(win > $(this).offset().top ){

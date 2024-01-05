@@ -5,9 +5,7 @@ function Header() {
     <>
     <header>
         <div className="header-wrap">
-            <h1>
-                <a className="logo" href="/"></a>
-            </h1>
+            <h1 className="logo"></h1>
             <nav id="topNav">
                 <ul className="gnb">
                     <li className="active"><a href="#section1"><span>Home</span></a></li>
