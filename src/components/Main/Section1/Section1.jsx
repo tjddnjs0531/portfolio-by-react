@@ -5,7 +5,7 @@ function Section1() {
       <>
         <section id="section1" className="section">
             <h2 className="hide">Home</h2>
-            <div className="headlin">
+            <div className="headline">
                 <p>WELCOME TO <br className="hidden-lg" />MY PORTFOLIO</p>
             </div>
             <div className="inner intro">
