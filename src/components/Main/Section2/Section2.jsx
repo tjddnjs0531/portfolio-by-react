@@ -20,7 +20,7 @@ function Section2() {
                             <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="95,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <g className="circle-chart__info">
-                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">98%</text>
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">100%</text>
                             </g>
                         </svg>
                         <span className='txt'>HTML</span>
@@ -30,7 +30,7 @@ function Section2() {
                             <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="95,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <g className="circle-chart__info">
-                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">98%</text>
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">100%</text>
                             </g>
                         </svg>
                         <span className='txt'>CSS</span>
@@ -50,7 +50,7 @@ function Section2() {
                             <circle className="circle-chart__background" stroke="#F7F6F2" stroke-width="2" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <circle className="circle-chart__circle" stroke-width="2" stroke-dasharray="60,100" stroke-linecap="round" fill="none" cx="16.91549431" cy="16.91549431" r="15.91549431"></circle>
                             <g className="circle-chart__info">
-                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">60%</text>
+                              <text className="circleTitle" x="17.91549431" y="16.91549431" alignment-baseline="central" text-anchor="middle" font-size="4.5">70%</text>
                             </g>
                         </svg>
                         <span className='txt'>React</span>
