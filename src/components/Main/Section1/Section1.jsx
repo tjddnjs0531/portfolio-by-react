@@ -6,7 +6,7 @@ function Section1() {
         <section id="section1" className="section">
             <h2 className="hide">Home</h2>
             <div className="headline">
-                <p>WELCOME TO <br className="hidden-lg" />MY PORTFOLIO</p>
+                <p data-splitting="words">WELCOME TO <br className="hidden-lg" />MY PORTFOLIO</p>
             </div>
             <div className="inner intro">
                 {/* <div className="img"><img src='./img/myEmoji.gif' alt="" /></div> */}
